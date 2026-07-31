@@ -100,12 +100,21 @@
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Recognitions
 
 - 🥇 **IndiaSkills 2026** – Medallion of Excellence, AIR 4, Nationals, Delhi; Gold Medalist, West Regional Skills, Ahmedabad.
 - 🥇 **Gold Medalist** – MaharashtraSkills 2025-26.
-- 🏆 **HackFusion’25** – 1st Place, SGGS Institute of Engineering and Technology, Nanded.
-- 🏆 **Innovo Hackathon** – 1st Place, SSGMCE, Shegaon.
+- 🏆 **1st Place** – HackFusion’25, SGGS Institute of Engineering and Technology, Nanded.
+- 🏆 **1st Place** – Innovo Hackathon, SSGMCE, Shegaon.
+- 🥇 **1st Place** – National Project Competition, Prof. Ram Meghe Institute, Amravati.
+- 🥉 **3rd Place** – Wings Hackathon, Government College of Engineering, Aurangabad.
+- 🏅 **Awarded App Developer** – Antarang 2026, Government College of Engineering (Built a campus security app used by 1200+ students).
+
+### 📜 Professional Certifications
+
+- **Accenture** – Data Analytics and Visualization
+- **JPMorgan Chase & Co.** – Software Engineering
+- **Tata** – Data Visualization
 
 ---
 
