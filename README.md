@@ -67,7 +67,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishal-bhutekar21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishal-bhutekar21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=Honors-Advanced-Computer-Vision-TA-Project,Transformer-Based-Abstractive-Summarization-using-T5,pythonchatbot" alt="Top Languages" width="50%" />
 </div>
 
 ---
