@@ -37,7 +37,20 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,react,nodejs,spring,python,aws,mysql,sqlite,firebase,git,github,docker,figma,postman&perline=8" alt="Tech Stack" />
+  <h4>📱 Android & App Development</h4>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java" alt="Android Tech Stack" />
+  
+  <h4>🌐 Web Development</h4>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,html,css" alt="Web Tech Stack" />
+
+  <h4>⚙️ Frameworks & Backend</h4>
+  <img src="https://skillicons.dev/icons?i=spring,express" alt="Frameworks" />
+
+  <h4>🗄️ Databases & Cloud (DBMS)</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws" alt="Databases" />
+  
+  <h4>🛠️ Tools & Others</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,python" alt="Tools" />
 </div>
 
 ---
@@ -50,7 +63,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishal-bhutekar21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishal-bhutekar21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=python,jupyter%20notebook,html,css" alt="Top Languages" width="50%" />
 </div>
 
 ---
