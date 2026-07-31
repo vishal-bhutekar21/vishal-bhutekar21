@@ -11,17 +11,14 @@
 ---
 
 <div align="center">
-  <a href="https://vishalbhutekar.netlify.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="32" alt="Portfolio"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishal-bhutekar21/"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Vishal_1233/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32" alt="LeetCode"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.geccs.campus"><img src="https://cdn.simpleicons.org/googleplay/414141" height="32" alt="Play Store"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://monkeytype.com/profile/vishal-bhutekar"><img src="https://cdn.simpleicons.org/monkeytype/E2B714" height="32" alt="MonkeyType"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:vishal.bhutekar1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="32" alt="Email"/></a>
+  <a href="https://vishalbhutekar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/vishal-bhutekar21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Vishal_1233/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.geccs.campus"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+  <a href="https://monkeytype.com/profile/vishal-bhutekar"><img src="https://img.shields.io/badge/MonkeyType-E2B714?style=for-the-badge&logo=monkeytype&logoColor=323437" alt="MonkeyType"/></a>
+  <a href="mailto:vishal.bhutekar1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <br>
+  <p><i>👆 Click on the badges above to visit my profiles and learn more!</i></p>
 </div>
 
 ---
@@ -150,11 +147,11 @@ My core expertise lies in Android Engineering. I follow industry best practices 
 
 <div align="center">
   <p><i>Always open to discussing new opportunities, open-source collaborations, or just talking tech!</i></p>
-  <a href="mailto:vishal.bhutekar1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="32" alt="Email"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishal-bhutekar21/"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://vishalbhutekar.netlify.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="32" alt="Portfolio"/></a>
+  <a href="mailto:vishal.bhutekar1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/vishal-bhutekar21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://vishalbhutekar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <br>
+  <p><i>👆 Connect with me via the links above!</i></p>
 </div>
 
 <br>
